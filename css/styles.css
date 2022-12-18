@@ -133,6 +133,7 @@ main {
     display: flex;
     flex-direction: column;
     gap: 3rem;
+    width: fit-content;
 }
 
 .elements__products > img{
